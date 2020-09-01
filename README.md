@@ -96,3 +96,7 @@ sh ./run.sh restart
 
 ###  Duty arrangement
 ![Duty arrangement](./doc/images/duty_plan.PNG)
+
+### Duty calendar
+It can send calendar email to on-duty librarian.
+![Duty calendar](./doc/images/duty_calendar.PNG)
