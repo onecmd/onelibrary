@@ -11,6 +11,8 @@ Write by PHP Yii 1.1 and bootstrap. Used since 2014 in Nokia.
 
 Contact hebihong@163.com when you need more help.
 
+NOTE: Usually this repo will not add new features anymore, please follow new version Onelibrary-Pro: https://github.com/onecmd/onelibrary-pro
+
 ## Usage
 
 ### Build
