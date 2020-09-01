@@ -3,6 +3,39 @@ A library for small company and organization. Include book management, book purc
 
 Contact hebihong@163.com when you need more help.
 
+## Usage
+
+### Build
+It run as a docker container, build a docker image at first.
+Run command to build the docker image:
+```
+cd ./docker
+sh ./build.sh
+
+docker images
+```
+
+### Run and start
+Run as a docker container by command:
+```
+cd ./docker
+sh ./run.sh start
+```
+
+### Stop
+Run command:
+```
+cd ./docker
+sh ./run.sh stop
+```
+
+### Restart
+Run command:
+```
+cd ./docker
+sh ./run.sh restart
+```
+
 ## Dashboard
 
 ### Dashboard
