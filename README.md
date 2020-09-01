@@ -49,7 +49,7 @@ Contact hebihong@163.com when you need more help.
 ## Librarian and volunteer management
 
 ### Add, edit, delete librarian and volunteer, and role management
-![Add, edit, delete librarian and volunteer](./doc/images/setting.PNG)
+![Add, edit, delete librarian and volunteer](./doc/images/user_admin.PNG)
 
 ## Librarian on-duty arrangement
 
