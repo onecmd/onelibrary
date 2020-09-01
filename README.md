@@ -1,5 +1,13 @@
 # onelibrary
-A library for small company and organization. Include book management, book purchasing, librarian and volunteer management, librarian on-duty arrangement and calendar, email system. Write by PHP Yii 1.1 and bootstrap. Used since 2014 in Nokia.
+A library for small company and organization. Include function:
+- Book management
+- Borrow, notify and fine management
+- Book purchasing and plan management
+- Librarian and volunteer management
+- Librarian on-duty arrangement
+- Email and calendar system
+
+Write by PHP Yii 1.1 and bootstrap. Used since 2014 in Nokia.
 
 Contact hebihong@163.com when you need more help.
 
